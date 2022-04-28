@@ -1,0 +1,17 @@
+.root-header {
+    background-color: white !important;
+    background-color: #191919 !important;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: white;
+    position: fixed;
+    top: 0;
+    z-index: 1000;
+
+    .trigger {
+        margin-left: 20px;
+        color: white;
+    }
+    
+}

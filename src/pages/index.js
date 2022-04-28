@@ -1,0 +1,10 @@
+export { default as WelcomePage } from './welcome/Welcome';
+export { default as StudentPage } from './student/Student';
+export { default as TeacherPage } from './teacher/Teacher';
+export { default as HomeworkPage } from './homework/Homework';
+export { default as Source_download_historyPage } from './source_download_history/Source_download_history';
+export { default as Visit_historyPage } from './visit_history/Visit_history';
+export { default as SubjectPage } from './subject/Subject';
+export { default as Homework_submit_historyPage } from './homework_submit_history/Homework_submit_history';
+export { default as Login_historyPage } from './login_history/Login_history';
+export { default as UniversityPage } from './university/University';
